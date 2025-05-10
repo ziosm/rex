@@ -32,7 +32,7 @@ const blogPosts = [
     slug: "sistemi-accumulo-fotovoltaico-guida",
     date: "2025-04-28",
     excerpt: "Una guida completa per capire l'importanza delle batterie di accumulo e come massimizzare l'autoconsumo energetico...",
-    imageUrl: "/placeholder-blog-2.jpg", // Immagine placeholder
+    imageUrl: "/header_blog.png", // Immagine placeholder
   },
   {
     id: 3,
